@@ -11,10 +11,12 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-- Most repos are in private :
+- Many repos are private :
   * Py2R (Transcoding Python script to R)
-  * PhotoCorrect (Correction Automation for Math like ![Mathpix](https://mathpix.com/worksheets)) 
+  * PhotoCorrect (Correction Automation for Math like ![Mathpix](https://mathpix.com/worksheets))
+  * ![DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
 
+Ask me to discover the project.
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
