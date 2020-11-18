@@ -12,6 +12,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 - Many repos are private :
+  * GraphMagistere (Graph Evolution analysis of Wikipedia) :heart:
   * Py2R (Transcoding Python script to R)
   * PhotoCorrect (Correction Automation for Math like ![Mathpix](https://mathpix.com/worksheets))
   * ![DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
