@@ -2,7 +2,7 @@
 [![pierre.lepagnol.net](https://img.shields.io/badge/pierre.lepagnol.net-MyWebSite-green?style=flat-square)](https://pierre.lepagnol.net)
 ## Your short description
 - 🔭 Passionate about `Machine & Deep Learning`
-- 🌱 Currently learning `NestJS & Scala`
+- 🌱 Currently learning `NestJS & Julia`
 - 💬 Ask me about `Anything you want`
 
 <!-- Also feel free to update second URL to any URL -->
@@ -11,6 +11,10 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
+- Most repos are in private :
+  * Py2R (Transcoding Python script to R)
+  * PhotoCorrect (Correction Automation for Math like ![Mathpix](https://mathpix.com/worksheets)) 
+
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
