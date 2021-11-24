@@ -12,11 +12,11 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 - Many repos are private :
-  * NextJS Eshop - web site : visit here - ![https://les-3-canards.com/]( https://shop.les-3-canards.com/)
+  * NextJS Eshop - web site : visit here - https://les-3-canards.com/
   * GraphMagistere (Graph Evolution analysis of Wikipedia) :heart:
   * Py2R (Transcoding Python script to R)
   * PhotoCorrect (Correction Automation for Math like ![Mathpix](https://mathpix.com/worksheets))
-  * ![DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
+  * [DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
 
 Ask me to discover the project.
 <!-- Optional if you have blogs -->
