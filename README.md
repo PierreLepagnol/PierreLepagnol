@@ -2,7 +2,7 @@
 [![pierre.lepagnol.net](https://img.shields.io/badge/pierre.lepagnol.net-MyWebSite-green?style=flat-square)](https://pierre.lepagnol.net)
 ## Your short description
 - 🔭 Passionate about `Machine & Deep Learning`
-- 🌱 Currently learning `NestJS & Julia`
+- 🌱 Currently learning `Docker, Kubernetes & MLFlow`
 - 💬 Ask me about `Anything you want`
 
 <!-- Also feel free to update second URL to any URL -->
