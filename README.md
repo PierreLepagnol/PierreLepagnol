@@ -15,7 +15,6 @@
   * NextJS Eshop - web site : [visit here](https://end-of-campain.d2d465kxchln5s.amplifyapp.com/)
   * GraphMagistere (Graph Evolution analysis of Wikipedia) :heart:
   * Py2R (Transcoding Python script to R)
-  * PhotoCorrect (Correction Automation for Math like [Mathpix](https://mathpix.com/worksheets))
   * [DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
 
 Ask me to discover the project.
