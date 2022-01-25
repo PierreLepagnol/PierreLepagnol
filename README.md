@@ -13,7 +13,6 @@
 <br />
 - Many repos are private :
   * Next.js Eshop - web site : [visit here](https://end-of-campain.d2d465kxchln5s.amplifyapp.com/)
-  * Py2R (Transcoding Python script to R) :construction: CANCELED :construction:
   * [DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
 
 Ask me to discover the project.
