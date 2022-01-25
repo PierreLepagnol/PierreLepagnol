@@ -12,9 +12,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 - Many repos are private :
-  * NextJS Eshop - web site : [visit here](https://end-of-campain.d2d465kxchln5s.amplifyapp.com/)
-  * GraphMagistere (Graph Evolution analysis of Wikipedia) :heart:
-  * Py2R (Transcoding Python script to R)
+  * Next.js Eshop - web site : [visit here](https://end-of-campain.d2d465kxchln5s.amplifyapp.com/)
+  * Py2R (Transcoding Python script to R) CANCELED :construction:
   * [DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
 
 Ask me to discover the project.
