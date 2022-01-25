@@ -11,13 +11,18 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-- Many repos are private :
+
+ ### Many repos are private :
   * Next.js Eshop - web site : [visit here](https://end-of-campain.d2d465kxchln5s.amplifyapp.com/)
   * Chant.ia : Creating lyrics with Deep Learning.
   * [DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
 
 Ask me to discover those projects.
-<!-- Optional if you have blogs -->
+
+## My last readings :
+* [*Les algorithmes font-ils la loi ?*, 2021, Aurélie Jean](https://livre.fnac.com/a16080002/Aurelie-Jean-Les-algorithmes-font-ils-la-loi)
+* [*12 Rules for Life: An Antidote to Chaos*, 2018, Jordan Peterson](https://www.goodreads.com/book/show/30257963-12-rules-for-life)
+
 ## Latest blog posts:
 Personal Website - Building Process :building_construction:
 <!-- BLOG-POST-LIST:START -->
