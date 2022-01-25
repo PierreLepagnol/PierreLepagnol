@@ -13,6 +13,7 @@
 <br />
 - Many repos are private :
   * Next.js Eshop - web site : [visit here](https://end-of-campain.d2d465kxchln5s.amplifyapp.com/)
+  * CHANT.IA : Creating lyrics with Deep Learning.
   * [DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
 
 Ask me to discover the project.
