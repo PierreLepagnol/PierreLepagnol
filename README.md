@@ -2,7 +2,7 @@
 [![pierre.lepagnol.net](https://img.shields.io/badge/pierre.lepagnol.net-MyWebSite-green?style=flat-square)](https://pierre.lepagnol.net)
 ## Your short description
 - 🔭 Passionate about `Machine & Deep Learning`
-- 🌱 Currently learning `Docker, Kubernetes & MLFlow`
+- 🌱 Currently learning [`ML OPS : Docker, Kubernetes & MLFlow`](https://www.coursera.org/learn/mlops-fundamentals/home/welcome)
 - 💬 Ask me about `Anything you want`
 
 <!-- Also feel free to update second URL to any URL -->
