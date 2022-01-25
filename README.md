@@ -16,9 +16,10 @@
   * Chant.ia : Creating lyrics with Deep Learning.
   * [DéfiIA](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard) (NLP task : job's descriptions classification) 
 
-Ask me to discover the project.
+Ask me to discover those projects.
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
+Personal Website - Building Process :building_construction:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
