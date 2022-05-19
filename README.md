@@ -11,6 +11,9 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
+## Want to learn ?
+- Refactoring & Design Patterns https://refactoring.guru/
+
 
  ### Many repos are private :
   * Next.js Eshop - web site : [visit here](https://end-of-campain.d2d465kxchln5s.amplifyapp.com/)
