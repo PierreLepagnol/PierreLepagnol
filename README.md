@@ -12,8 +12,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 ## Want to learn ?
-- Refactoring & Design Patterns https://refactoring.guru/
-
+- [How to refactor and use Design Patterns ?](https://refactoring.guru/)
+- [How to write beautiful Clean Code ?](https://youtu.be/03gGkTzvP1Y)
 
  ### Many repos are private :
   * Next.js Eshop - web site : [visit here](https://end-of-campain.d2d465kxchln5s.amplifyapp.com/)
