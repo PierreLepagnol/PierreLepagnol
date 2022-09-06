@@ -23,6 +23,8 @@
 Ask me to discover those projects.
 
 ## My last readings :
+
+* [*Skin in the game*, 2018, Nassim Nicholas Taleb](https://www.goodreads.com/en/book/show/36064445-skin-in-the-game)
 * [*Les algorithmes font-ils la loi ?*, 2021, Aurélie Jean](https://livre.fnac.com/a16080002/Aurelie-Jean-Les-algorithmes-font-ils-la-loi)
 * [*12 Rules for Life: An Antidote to Chaos*, 2018, Jordan Peterson](https://www.goodreads.com/book/show/30257963-12-rules-for-life)
 
